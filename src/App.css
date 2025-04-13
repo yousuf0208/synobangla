@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.App {
+  padding: 20px;
+  text-align: center;
+}
+input {
+  padding: 8px;
+  font-size: 16px;
+}
+button {
+  margin-left: 10px;
+  padding: 8px 12px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.result, .history {
+  margin-top: 20px;
+  text-align: left;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+footer {
+  margin-top: 50px;
+  font-weight: bold;
+}
+.App.dark {
+  background: #121212;
+  color: #fff;
+}
+.App.light {
+  background: #f9f9f9;
+  color: #000;
+}
