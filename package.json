@@ -1,4 +1,4 @@
-{
+{ "homepage": "https://yousuf0208.github.io/synobangla"
   "name": "synobangla",
   "version": "1.0.0",
   "private": true,
@@ -11,5 +11,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
+    
   }
 }
